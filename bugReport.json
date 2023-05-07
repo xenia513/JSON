@@ -1,1 +1,20 @@
-
+{
+  "ID": "0001",
+  "Severity":"Trivial",
+  "Enviroment":"Win 7 Chrome 109 IPhone 11 IOS 16.4.1",
+  "Title": "The link [Share price] redirects to the english page from Trading Course 1, section 2 when AR, NL, VI, TH or ZN is chosen",
+  "Precondition": "",
+  "Steps": {
+    "1": "Navigate to capital.com",
+    "2": "Hover over the [Education] menu section",
+    "3": "Click the [Trading сourses] menu item",
+    "4": "Click the [Who are the main market players?] row in the Introduction to Financial Markets box",
+    "5": "Select AR, NL, VI, TH or ZN language",
+    "6": "Scroll to the second to the last paragraph",
+    "7": "Click the link [Share price]"
+  },
+  "Postcondition": "",
+  "ExpectedResult":"The link [Share price] redirects to the page translated into chosen language",
+  "ActualResult":"The link [Share price] redirects to the english page",
+  "Attacment": "link"
+}
