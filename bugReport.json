@@ -16,6 +16,6 @@
   "Postcondition": "",
   "ExpectedResult":"The link [Share price] redirects to the page translated into chosen language",
   "ActualResult":"The link [Share price] redirects to the english page",
-  "Attacment": "link"
+  "Attachment": "link"
   "Author": "@xenia513"
 }
